@@ -1,2 +1,2 @@
-var imie =document.gettElementById('imie');
-imie.textContent ='Daniel';
+var imie =document.getElementById('imie');
+imie.textContent = "Daniel";
